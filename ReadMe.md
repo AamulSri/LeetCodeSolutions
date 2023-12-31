@@ -1,3 +1,4 @@
-#This is where I post LeetCode Solutions
+# This is where I post LeetCode Solutions
+
 <br>
-Author - Aamul.
+<b>Author - Aamul.<b>
