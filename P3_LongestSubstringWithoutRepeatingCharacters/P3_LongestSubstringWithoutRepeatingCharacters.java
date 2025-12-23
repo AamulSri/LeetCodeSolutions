@@ -1,3 +1,5 @@
+package P3_LongestSubstringWithoutRepeatingCharacters;
+
 public class P3_LongestSubstringWithoutRepeatingCharacters {
  
      public static int lengthOfLongestSubstring(String s) {
